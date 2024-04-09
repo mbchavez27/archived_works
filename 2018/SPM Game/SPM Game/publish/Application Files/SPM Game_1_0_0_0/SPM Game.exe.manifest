@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SPM Game.exe" version="1.0.0.0" publicKeyToken="1efc60cdcc3fb43c" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SPM Game" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SPM Game.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SPM Game.exe" size="9688">
+      <assemblyIdentity name="SPM Game" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6RBUe1UU2pfw/kCsSMYqaPNO6XpfDWp8w8Q541koHTI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SPM Game.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=EPICSTRYKERPC\Chavez" issuerKeyHash="683a7a52aba5a86e1ec0b41cb2ae7f060401dd19" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CjdRRKOXA2EZEMHW/It9fVqgxiAbJbP1XytW3Llqc84=</DigestValue></Reference></SignedInfo><SignatureValue>0+ULOmLa+V5qNWJWnCMSVCCtVXPbY51g4jWsPiZ+y1kYEAKpTLBHlgVhB+xO97HEsU9utoSMxuxOu1bZE2tfa8t6gIoE1T4Akke/Vyq8j+AD+bmHJ0boFcKHHBCOBN7tS1AkukNAZh/9s6f5iL56BxF9fcbgfOsC7PwDT5SdAlI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1f2mi0dAhd5hsTGfcrB96HRGr8tjYtbtxWu/WBC7jlpSGXNLCcS3GkOlpCju77Eb/Qa2MirPqhHyZLBOewmJTTEX46toKMttdKcUYMtGsG6XOWyvu6jgh27cjZHVjqyYRQ1rVfE4LqW8GFIn7RO+xsrBu1EtWgBzmhiDaPjYuo0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ce736ab9dc562b5ff5b3251b20c6a05a7d7d8bfcd6c11019610397a34451370a" Description="" Url=""><as:assemblyIdentity name="SPM Game.exe" version="1.0.0.0" publicKeyToken="1efc60cdcc3fb43c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EPICSTRYKERPC\Chavez</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gWEeVX1CnIotTP1Astz41p7ThaaAuhlEgDeC36L/loM=</DigestValue></Reference></SignedInfo><SignatureValue>J31uwhKz4KXUwbc3F73mwlyvLPZemZia3X9puZ624MAdKIY0QIIhZoISCUvI8jCmJJVlERgjS3GTTKM/XdrO0uX1AOvWUoR5MF20cdA/IJl5uwf5EYrpUIZBoKk+D6Sf2dJSOLCzdZ/VVKgkZ68PSIEOs4swY69fBmrfrrpxerQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1f2mi0dAhd5hsTGfcrB96HRGr8tjYtbtxWu/WBC7jlpSGXNLCcS3GkOlpCju77Eb/Qa2MirPqhHyZLBOewmJTTEX46toKMttdKcUYMtGsG6XOWyvu6jgh27cjZHVjqyYRQ1rVfE4LqW8GFIn7RO+xsrBu1EtWgBzmhiDaPjYuo0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQZ0qE3gAb1rZIMjnW5ii1pTANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARQBQAEkAQwBTAFQAUgBZAEsARQBSAFAAQwBcAEMAaABhAHYAZQB6MB4XDTE5MDMyMTA5NDAxNloXDTIwMDMyMDE1NDAxNlowMzExMC8GA1UEAx4oAEUAUABJAEMAUwBUAFIAWQBLAEUAUgBQAEMAXABDAGgAYQB2AGUAejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1f2mi0dAhd5hsTGfcrB96HRGr8tjYtbtxWu/WBC7jlpSGXNLCcS3GkOlpCju77Eb/Qa2MirPqhHyZLBOewmJTTEX46toKMttdKcUYMtGsG6XOWyvu6jgh27cjZHVjqyYRQ1rVfE4LqW8GFIn7RO+xsrBu1EtWgBzmhiDaPjYuo0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQCEQf4ZGJsEGvk1ff90cWWBXsBXzKhLxtVHU/JOaiKAp6wH867r0lz/MBapN95egcgqG4eOncbzzn1sF+NTBPCuGE/HvlBVTn8pyptK5cUXLcxdYba0bnJP32RR8Wf995ao8HR4evIh3OHeS1WBUD+0i/9LRsyvl4QNCYUANsj73w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

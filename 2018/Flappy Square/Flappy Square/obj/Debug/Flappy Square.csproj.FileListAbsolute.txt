@@ -1,0 +1,23 @@
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\bin\Debug\Flappy Square.exe.config
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\bin\Debug\Flappy Square.exe
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\bin\Debug\Flappy Square.pdb
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.csprojAssemblyReference.cache
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy_Square.Game.resources
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy_Square.Menu.resources
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy_Square.Properties.Resources.resources
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.csproj.GenerateResource.cache
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.csproj.CoreCompileInputs.cache
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.exe
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.pdb
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\bin\Debug\Flappy Square.exe.manifest
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\bin\Debug\Flappy Square.application
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.exe.manifest
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.application
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.csprojAssemblyReference.cache
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy_Square.Game.resources
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy_Square.Menu.resources
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy_Square.Properties.Resources.resources
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.csproj.GenerateResource.cache
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.csproj.CoreCompileInputs.cache
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.exe
+F:\Documents\Max's Files\Work\Programming\C#\Visual Studio Files\Games\Flappy Square\Flappy Square\obj\Debug\Flappy Square.pdb

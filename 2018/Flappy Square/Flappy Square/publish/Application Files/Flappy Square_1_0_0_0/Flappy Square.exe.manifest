@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Flappy Square.exe" version="1.0.0.0" publicKeyToken="95415ed55f87011f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="fs.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Flappy Square" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Flappy Square.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Flappy Square.exe" size="39384">
+      <assemblyIdentity name="Flappy Square" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UZ4uTaEMk93+whij0q+tCeJG6s5ho82wb2Mn42kJBH4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Flappy Square.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="fs.ico" size="21957">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pjdMhmKP0bfNItG2toBTX2hPljwJe6vh1wKS2CljKtM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=EPICSTRYKERPC\Chavez" issuerKeyHash="5f373ae0d6d763343025604204d4daab6e98f65d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>M3TZAVgP1AZGD9wyxlmIJObw5VQ8ABqSGCNtIbR1Eng=</DigestValue></Reference></SignedInfo><SignatureValue>X4sxTi0YDglDRCzN7VWNBBoSX5/PTZgnLmEkuTo1UGaCrB+2gOOV8LF5MsjYHvv+26D5ZgEYoDvqyel8O/id2xd8mBp1nfAsydnMuApTCWfokdhVqNNMkJw/sUqVJ8YOU7nFmC3J+Qef/Y6aiGKNMfpPRm0T8FN5wtf0at8rnSA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vxgPPmGEAoKuw3ouoThhUamH2l12MYB3MPtT71XMi1AW9hHmUUu9Gr3DpNTtEhHSChkCnrP4wvEtEGMbINNHTGUHHn6iVIC06iGiTwr/nC3V1xe6Evp94hzGoW1bgPvZWBoEHLMtel5Ql6e+mjTtTLqFqRxloaVbHfsT4Aqqi0U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="781275b4216d2318921a003c54e5f0e6248859c632dc0f4606d40f5801d97433" Description="" Url=""><as:assemblyIdentity name="Flappy Square.exe" version="1.0.0.0" publicKeyToken="95415ed55f87011f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EPICSTRYKERPC\Chavez</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wyYV39N1xGL6ZfLVf2pUcV8pB0DT+fxjbX4cLP2iE0I=</DigestValue></Reference></SignedInfo><SignatureValue>skAN6GeQJ6TzX7h317RtKJa45voq7j79rZWgkn/oxpW7R6vJcsb91DGTIaIX+tzo05F6F7VTyxjS/q7/SvCvoZ7UqF/0ypR9zZit4j50diqa/4ofF8xKS954YDANjvyAIY4kbvblPE//2QssSsP9Qim3XEef+M3DHO8bqjP14c4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vxgPPmGEAoKuw3ouoThhUamH2l12MYB3MPtT71XMi1AW9hHmUUu9Gr3DpNTtEhHSChkCnrP4wvEtEGMbINNHTGUHHn6iVIC06iGiTwr/nC3V1xe6Evp94hzGoW1bgPvZWBoEHLMtel5Ql6e+mjTtTLqFqRxloaVbHfsT4Aqqi0U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQeYoYR7J/W6RGOcsofEN0SDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARQBQAEkAQwBTAFQAUgBZAEsARQBSAFAAQwBcAEMAaABhAHYAZQB6MB4XDTE5MDQwODA0NTMyMloXDTIwMDQwNzEwNTMyMlowMzExMC8GA1UEAx4oAEUAUABJAEMAUwBUAFIAWQBLAEUAUgBQAEMAXABDAGgAYQB2AGUAejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvxgPPmGEAoKuw3ouoThhUamH2l12MYB3MPtT71XMi1AW9hHmUUu9Gr3DpNTtEhHSChkCnrP4wvEtEGMbINNHTGUHHn6iVIC06iGiTwr/nC3V1xe6Evp94hzGoW1bgPvZWBoEHLMtel5Ql6e+mjTtTLqFqRxloaVbHfsT4Aqqi0UCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBbB81xdPxTAJyUlIZGQYevckQQdT7775EHq96ZYzxPlJvfjHbfJOg0/PQEa6EXoom51AgTTAK+P5LVNwE5nNvQeECdAHA4XgSYFZ+wm7Q3AhNoFmxYMftgf+d9kW1MtE7vjHOD6y0bDfLis5ZxJQ1TDTSbFA3cHI4/qURNF5uo5w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

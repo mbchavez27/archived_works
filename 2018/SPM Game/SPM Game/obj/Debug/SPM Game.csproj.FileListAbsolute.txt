@@ -1,0 +1,11 @@
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\bin\Debug\SPM Game.exe.config
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\bin\Debug\SPM Game.exe
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\bin\Debug\SPM Game.pdb
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\obj\Debug\SPM Game.csprojAssemblyReference.cache
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\obj\Debug\SPM Game.csproj.CoreCompileInputs.cache
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\obj\Debug\SPM Game.exe
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\obj\Debug\SPM Game.pdb
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\bin\Debug\SPM Game.exe.manifest
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\bin\Debug\SPM Game.application
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\obj\Debug\SPM Game.exe.manifest
+C:\Users\Chavez\Documents\Max's Files\Programming\C#\Visual Studio Files\SPM Game\SPM Game\obj\Debug\SPM Game.application

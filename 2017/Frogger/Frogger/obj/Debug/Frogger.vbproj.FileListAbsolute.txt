@@ -1,0 +1,13 @@
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Debug\Frogger.exe.config
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Debug\Frogger.exe
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Debug\Frogger.pdb
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Debug\Frogger.xml
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.Form1.resources
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.Form2.resources
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.Form3.resources
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.Resources.resources
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.vbproj.GenerateResource.Cache
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.exe
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.xml
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.pdb
+c:\users\epiks\documents\visual studio 2015\Projects\Frogger\Frogger\obj\Debug\Frogger.vbprojResolveAssemblyReference.cache

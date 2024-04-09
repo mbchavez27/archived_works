@@ -1,0 +1,110 @@
+::-webkit-scrollbar{
+	width: 5px;
+}
+::-webkit-scrollbar-thumb{
+	background-color: black;
+}
+::-webkit-scrollbar-track{
+	background-color: black;
+}
+::-webkit-scrollbar:hover{
+	background-color: darkred;
+}
+
+#giver2{
+	visibility: hidden;
+}
+#giver3{
+	visibility: hidden;
+}
+.firstpart{
+	background-image:url("comp1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.tp{
+	color: gray;
+	font-size: 30px;
+	font-family: Bahnschrift;	
+}
+
+.hey{
+	font-size: 25px;
+	color: gray;
+	font-family: Bahnschrift;
+	padding-left: 50px;
+	list-style: none;
+}
+.inputs{
+	font-size: 20px;
+	color: white;
+	margin-left: 50px;
+	font-family: Bahnschrift;
+	background:transparent;
+	outline:none;
+}
+
+input{
+	border:none;
+	background-color: gray;
+	border-bottom: 3px solid gray;
+    outline:none;
+}
+
+button{
+	border: none;
+	background-color: #36079b;
+	opacity: .5;
+	margin-left: 10px;
+	color: white;
+	outline:none;
+	transition:.5s;
+}
+button:hover{
+	border: none;
+	background-color: #36079b;
+	opacity: 1;
+	transition: .5s;
+	color: white;
+	outline:none;
+}
+button:active{
+	background-color: #210263;
+	outline:none;
+	opacity:.5;
+}
+.bots{
+	font-size: 25px;
+}
+span{
+	font-size: 25px;
+	top: -35px;
+	position:relative;
+}
+.ip2
+{
+	font-size: 25px;
+	margin-left: 45px;
+}
+#presult1:hover{
+	color:#bab6c4;
+	transition: 1s;
+}
+#presult1{
+	transition:1s;
+	cursor: default;
+}
+li{
+	margin: auto;
+	padding:auto;
+	transition:.5s;
+	cursor: default;
+}
+li:hover{
+	color:#bab6c4;
+	margin:auto;
+	padding: auto;
+	cursor:default;
+	font-size:30px;
+	transition:.5s;
+}
